@@ -21,4 +21,4 @@ Save
 
 Screenshot
 ----------
-![Screenshot](https://user-images.githubusercontent.com/1253063/30040662-b480849a-91b8-11e7-9b56-cc4a58f858f1.png)
+![Screenshot](https://github.com/user-attachments/assets/853f0096-3cca-4677-aa69-9b65667e2001)
